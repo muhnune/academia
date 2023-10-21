@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//jvgkhjk
 // Kelas Parents (Superclass)
 class ProdukElektronik {
     String merek;
