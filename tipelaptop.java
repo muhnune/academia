@@ -57,6 +57,6 @@ public class tipelaptop {
 
         input.close();
 
-        // gusbram
+        // gusbram suka warnet
     }
 }
