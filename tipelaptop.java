@@ -55,5 +55,7 @@ public class tipelaptop {
         laptop.info();
 
         input.close();
+
+        // gusbram
     }
 }
