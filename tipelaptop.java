@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//ini test commit dari vscode
+//ini test commit dari vscodes
 // Kelas Parents (Superclass)
 class ProdukElektronik {
     String merek;
