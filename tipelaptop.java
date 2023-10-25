@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-//ini test commit dari vscodes
+//ini test commit dari vscodekndljkabsdjvbaljsdv
 
-//zjxvbbLkvkbznfb
-//LJSLDbvljkzbfbb
+// ini test add and commit dari git bash vscodesadvascvs
+
 // Kelas Parents (Superclass)
 class ProdukElektronik {
     String merek;
