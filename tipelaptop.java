@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 //ini test commit dari vscodes
+
+//zjxvbbLkvkbznfb
+//LJSLDbvljkzbfbb
 // Kelas Parents (Superclass)
 class ProdukElektronik {
     String merek;
