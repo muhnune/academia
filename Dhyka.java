@@ -1,5 +1,5 @@
 public class Dhyka {
     public static void main(String[] args) {
-        System.out.println("hsdallo pll");
+        System.out.println("kk");
     }
 }
